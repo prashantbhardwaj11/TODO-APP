@@ -1,0 +1,22 @@
+html{
+  background-color:darkslategrey;
+}
+
+
+
+.container-fluid{
+  background-color:darkslategrey;
+}
+.text-centre{
+  text-align: center;
+}
+
+input[type="text"]{
+  background: transparent;
+  color: white;
+}
+
+input[type="text"]:focus{
+  background: transparent;
+  color: white;
+}
